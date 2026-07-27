@@ -1,0 +1,11 @@
+# Compiled Java class files
+*.class
+
+# Packaged jars (build artifacts / external libraries)
+*.jar
+
+# Real database credentials - never commit this
+db.properties
+
+# Editor settings
+.vscode/
