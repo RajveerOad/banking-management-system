@@ -4,7 +4,7 @@
 # Packaged jars (build artifacts / external libraries)
 *.jar
 
-# Real database credentials - never commit this
+# Real database credentials -
 db.properties
 
 # Editor settings
